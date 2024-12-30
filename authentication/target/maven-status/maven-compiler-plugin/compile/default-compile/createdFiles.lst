@@ -1,0 +1,5 @@
+org/example/authentication/repository/UserRepository.class
+org/example/authentication/AuthenticationApplication.class
+org/example/authentication/controller/AuthController.class
+org/example/authentication/blacklist/TokenBlacklistService.class
+org/example/authentication/model/User.class
